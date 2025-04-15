@@ -3,7 +3,7 @@
         "children": [
             {
                 "dateAdded": 1709374631453,
-                "dateLastUsed": 1744190203753,
+                "dateLastUsed": 1744651836468,
                 "id": "834",
                 "index": 0,
                 "parentId": "1",
@@ -13,7 +13,7 @@
             },
             {
                 "dateAdded": 1709374631453,
-                "dateLastUsed": 1744185890088,
+                "dateLastUsed": 1744748200652,
                 "id": "835",
                 "index": 1,
                 "parentId": "1",
@@ -23,7 +23,7 @@
             },
             {
                 "dateAdded": 1709374631453,
-                "dateLastUsed": 1744182233296,
+                "dateLastUsed": 1744746757629,
                 "id": "836",
                 "index": 2,
                 "parentId": "1",
@@ -3376,7 +3376,7 @@
             },
             {
                 "dateAdded": 1709374631458,
-                "dateLastUsed": 1743860903601,
+                "dateLastUsed": 1744726631393,
                 "id": "853",
                 "index": 14,
                 "parentId": "1",
@@ -3385,28 +3385,28 @@
                 "url": "https://www.yuque.com/kenguba/play/en-11"
             },
             {
-                "dateAdded": 1740465048324,
-                "dateLastUsed": 1743837376835,
-                "id": "1982",
-                "index": 15,
-                "parentId": "1",
-                "syncing": true,
-                "title": "词缀",
-                "url": "https://www.yuque.com/kenguba/play/affix"
-            },
-            {
                 "dateAdded": 1743304735549,
-                "dateLastUsed": 1744174774106,
+                "dateLastUsed": 1744727306362,
                 "id": "1996",
-                "index": 16,
+                "index": 15,
                 "parentId": "1",
                 "syncing": true,
                 "title": "语法",
                 "url": "https://www.yuque.com/kenguba/play/grammar"
             },
             {
+                "dateAdded": 1740465048324,
+                "dateLastUsed": 1744523379731,
+                "id": "1982",
+                "index": 16,
+                "parentId": "1",
+                "syncing": true,
+                "title": "词缀",
+                "url": "https://www.yuque.com/kenguba/play/affix"
+            },
+            {
                 "dateAdded": 1742047987336,
-                "dateLastUsed": 1744176628208,
+                "dateLastUsed": 1744207648116,
                 "id": "1987",
                 "index": 17,
                 "parentId": "1",
@@ -3415,20 +3415,10 @@
                 "url": "https://www.yuque.com/kenguba/swap/uuyoqefzphchensm"
             },
             {
-                "dateAdded": 1743312671627,
-                "dateLastUsed": 1743344844956,
-                "id": "1997",
-                "index": 18,
-                "parentId": "1",
-                "syncing": true,
-                "title": "Vocabulary",
-                "url": "https://www.vocabulary.com/dictionary/me"
-            },
-            {
                 "dateAdded": 1742491240293,
-                "dateLastUsed": 1743595319433,
+                "dateLastUsed": 1744731682796,
                 "id": "1990",
-                "index": 19,
+                "index": 18,
                 "parentId": "1",
                 "syncing": true,
                 "title": "etymonline",
@@ -3436,48 +3426,75 @@
             },
             {
                 "dateAdded": 1743303565686,
-                "dateLastUsed": 1743595321986,
+                "dateLastUsed": 1744731691935,
                 "id": "1995",
-                "index": 20,
+                "index": 19,
                 "parentId": "1",
                 "syncing": true,
                 "title": "Webster",
                 "url": "https://www.merriam-webster.com/dictionary/ignore#nearby-entries"
             },
             {
-                "children": [
-                    {
-                        "dateAdded": 1743416939026,
-                        "dateLastUsed": 1744179878104,
-                        "id": "2001",
-                        "index": 0,
-                        "parentId": "1998",
-                        "syncing": true,
-                        "title": "Cambridge Dictionary",
-                        "url": "https://dictionary.cambridge.org/us/"
-                    },
-                    {
-                        "dateAdded": 1743344630443,
-                        "dateLastUsed": 1743403816608,
-                        "id": "2000",
-                        "index": 1,
-                        "parentId": "1998",
-                        "syncing": true,
-                        "title": "Collins | 柯林斯英语词典",
-                        "url": "https://www.collinsdictionary.com/zh/dictionary/english/celebrate#google_vignette"
-                    }
-                ],
+                "dateAdded": 1743312671627,
+                "dateLastUsed": 1744734525464,
+                "id": "1997",
+                "index": 20,
+                "parentId": "1",
+                "syncing": true,
+                "title": "Vocabulary",
+                "url": "https://www.vocabulary.com/dictionary/me"
+            },
+            {
+                "children": [],
                 "dateAdded": 1743325705942,
-                "dateGroupModified": 1744179873350,
+                "dateGroupModified": 1744731094116,
                 "id": "1998",
                 "index": 21,
                 "parentId": "1",
                 "syncing": true,
                 "title": "英语网站"
+            },
+            {
+                "dateAdded": 1743416939026,
+                "dateLastUsed": 1744734565873,
+                "id": "2001",
+                "index": 22,
+                "parentId": "1",
+                "syncing": true,
+                "title": "Cambridge Dictionary",
+                "url": "https://dictionary.cambridge.org/dictionary/english/word"
+            },
+            {
+                "dateAdded": 1743344630443,
+                "dateLastUsed": 1744731883897,
+                "id": "2000",
+                "index": 23,
+                "parentId": "1",
+                "syncing": true,
+                "title": "Collins | 柯林斯英语词典",
+                "url": "https://www.collinsdictionary.com/zh/dictionary/english/celebrate#google_vignette"
+            },
+            {
+                "dateAdded": 1744747334951,
+                "id": "2008",
+                "index": 24,
+                "parentId": "1",
+                "syncing": true,
+                "title": "欧路在线词典",
+                "url": "https://dict.eudic.net/home/translation"
+            },
+            {
+                "dateAdded": 1744747315217,
+                "id": "2007",
+                "index": 25,
+                "parentId": "1",
+                "syncing": true,
+                "title": "《欧路词典》英语在线词典",
+                "url": "https://dict.eudic.net/"
             }
         ],
         "dateAdded": 1707891700817,
-        "dateGroupModified": 1743325705942,
+        "dateGroupModified": 1744747352423,
         "folderType": "bookmarks-bar",
         "id": "1",
         "index": 0,
