@@ -13,7 +13,7 @@
             },
             {
                 "dateAdded": 1709374631453,
-                "dateLastUsed": 1744748200652,
+                "dateLastUsed": 1744791697954,
                 "id": "835",
                 "index": 1,
                 "parentId": "1",
@@ -23,7 +23,7 @@
             },
             {
                 "dateAdded": 1709374631453,
-                "dateLastUsed": 1744746757629,
+                "dateLastUsed": 1744778475323,
                 "id": "836",
                 "index": 2,
                 "parentId": "1",
@@ -1062,7 +1062,7 @@
                     },
                     {
                         "dateAdded": 1709374631471,
-                        "dateLastUsed": 1742978531174,
+                        "dateLastUsed": 1744791468207,
                         "id": "940",
                         "index": 32,
                         "parentId": "839",
@@ -3376,7 +3376,7 @@
             },
             {
                 "dateAdded": 1709374631458,
-                "dateLastUsed": 1744726631393,
+                "dateLastUsed": 1744791704302,
                 "id": "853",
                 "index": 14,
                 "parentId": "1",
@@ -3406,7 +3406,7 @@
             },
             {
                 "dateAdded": 1742047987336,
-                "dateLastUsed": 1744207648116,
+                "dateLastUsed": 1744749179103,
                 "id": "1987",
                 "index": 17,
                 "parentId": "1",
@@ -3436,13 +3436,13 @@
             },
             {
                 "dateAdded": 1743312671627,
-                "dateLastUsed": 1744734525464,
+                "dateLastUsed": 1744787841374,
                 "id": "1997",
                 "index": 20,
                 "parentId": "1",
                 "syncing": true,
                 "title": "Vocabulary",
-                "url": "https://www.vocabulary.com/dictionary/me"
+                "url": "https://www.vocabulary.com/dictionary/genre"
             },
             {
                 "children": [],
@@ -3455,10 +3455,19 @@
                 "title": "英语网站"
             },
             {
+                "dateAdded": 1744787804385,
+                "id": "2015",
+                "index": 22,
+                "parentId": "1",
+                "syncing": true,
+                "title": "IPA Pronunciation Guide | Vocabulary.com",
+                "url": "https://www.vocabulary.com/resources/ipa-pronunciation/"
+            },
+            {
                 "dateAdded": 1743416939026,
                 "dateLastUsed": 1744734565873,
                 "id": "2001",
-                "index": 22,
+                "index": 23,
                 "parentId": "1",
                 "syncing": true,
                 "title": "Cambridge Dictionary",
@@ -3468,33 +3477,105 @@
                 "dateAdded": 1743344630443,
                 "dateLastUsed": 1744731883897,
                 "id": "2000",
-                "index": 23,
+                "index": 24,
                 "parentId": "1",
                 "syncing": true,
                 "title": "Collins | 柯林斯英语词典",
                 "url": "https://www.collinsdictionary.com/zh/dictionary/english/celebrate#google_vignette"
             },
             {
+                "children": [],
+                "dateAdded": 1744778118442,
+                "dateGroupModified": 1744778118442,
+                "id": "2012",
+                "index": 25,
+                "parentId": "1",
+                "syncing": true,
+                "title": "_________________"
+            },
+            {
+                "dateAdded": 1744747315217,
+                "dateLastUsed": 1744792378423,
+                "id": "2007",
+                "index": 26,
+                "parentId": "1",
+                "syncing": true,
+                "title": "《欧路词典》英语在线词典",
+                "url": "https://dict.eudic.net/"
+            },
+            {
                 "dateAdded": 1744747334951,
+                "dateLastUsed": 1744792379605,
                 "id": "2008",
-                "index": 24,
+                "index": 27,
                 "parentId": "1",
                 "syncing": true,
                 "title": "欧路在线词典",
                 "url": "https://dict.eudic.net/home/translation"
             },
             {
-                "dateAdded": 1744747315217,
-                "id": "2007",
-                "index": 25,
+                "dateAdded": 1744792263733,
+                "dateLastUsed": 1744792379649,
+                "id": "2018",
+                "index": 28,
                 "parentId": "1",
                 "syncing": true,
-                "title": "《欧路词典》英语在线词典",
-                "url": "https://dict.eudic.net/"
+                "title": "欧路翻译 - 文本翻译",
+                "url": "chrome-extension://djbfechcnkppbknmlhfcaoifgnicolin/main/index.html?#/home/textTranslate"
+            },
+            {
+                "dateAdded": 1744792228032,
+                "dateLastUsed": 1744792380475,
+                "id": "2017",
+                "index": 29,
+                "parentId": "1",
+                "syncing": true,
+                "title": "欧路翻译 - 文件阅读",
+                "url": "chrome-extension://djbfechcnkppbknmlhfcaoifgnicolin/main/index.html?#/home/reader"
+            },
+            {
+                "dateAdded": 1744792287181,
+                "dateLastUsed": 1744792319861,
+                "id": "2019",
+                "index": 30,
+                "parentId": "1",
+                "syncing": true,
+                "title": "欧路词典 - 音频翻译",
+                "url": "https://my.eudic.net/AudioTranslate/index"
+            },
+            {
+                "dateAdded": 1744777951888,
+                "dateLastUsed": 1744777967623,
+                "id": "2010",
+                "index": 31,
+                "parentId": "1",
+                "syncing": true,
+                "title": "导入生词本 | 欧路词典",
+                "url": "https://my.eudic.net/studylist/import/"
+            },
+            {
+                "dateAdded": 1744778105761,
+                "dateLastUsed": 1744778651755,
+                "id": "2011",
+                "index": 32,
+                "parentId": "1",
+                "syncing": true,
+                "title": "开发指南 | 欧路词典",
+                "url": "https://my.eudic.net/OpenAPI/Doc_Index"
+            },
+            {
+                "children": [],
+                "dateAdded": 1744778140431,
+                "dateGroupModified": 1744778140431,
+                "id": "2013",
+                "index": 33,
+                "parentId": "1",
+                "syncing": true,
+                "title": "___________________"
             }
         ],
         "dateAdded": 1707891700817,
-        "dateGroupModified": 1744747352423,
+        "dateGroupModified": 1744792343096,
         "folderType": "bookmarks-bar",
         "id": "1",
         "index": 0,
