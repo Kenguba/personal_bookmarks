@@ -13,7 +13,7 @@
             },
             {
                 "dateAdded": 1709374631453,
-                "dateLastUsed": 1744791697954,
+                "dateLastUsed": 1744889251542,
                 "id": "835",
                 "index": 1,
                 "parentId": "1",
@@ -23,7 +23,7 @@
             },
             {
                 "dateAdded": 1709374631453,
-                "dateLastUsed": 1744778475323,
+                "dateLastUsed": 1744889403730,
                 "id": "836",
                 "index": 2,
                 "parentId": "1",
@@ -1062,7 +1062,7 @@
                     },
                     {
                         "dateAdded": 1709374631471,
-                        "dateLastUsed": 1744791468207,
+                        "dateLastUsed": 1744795036766,
                         "id": "940",
                         "index": 32,
                         "parentId": "839",
@@ -3376,7 +3376,7 @@
             },
             {
                 "dateAdded": 1709374631458,
-                "dateLastUsed": 1744791704302,
+                "dateLastUsed": 1744885185521,
                 "id": "853",
                 "index": 14,
                 "parentId": "1",
@@ -3406,7 +3406,7 @@
             },
             {
                 "dateAdded": 1742047987336,
-                "dateLastUsed": 1744749179103,
+                "dateLastUsed": 1744885055995,
                 "id": "1987",
                 "index": 17,
                 "parentId": "1",
@@ -3495,7 +3495,7 @@
             },
             {
                 "dateAdded": 1744747315217,
-                "dateLastUsed": 1744792378423,
+                "dateLastUsed": 1744792688354,
                 "id": "2007",
                 "index": 26,
                 "parentId": "1",
@@ -3505,7 +3505,7 @@
             },
             {
                 "dateAdded": 1744747334951,
-                "dateLastUsed": 1744792379605,
+                "dateLastUsed": 1744792691775,
                 "id": "2008",
                 "index": 27,
                 "parentId": "1",
@@ -3514,10 +3514,30 @@
                 "url": "https://dict.eudic.net/home/translation"
             },
             {
-                "dateAdded": 1744792263733,
-                "dateLastUsed": 1744792379649,
-                "id": "2018",
+                "children": [],
+                "dateAdded": 1744793061085,
+                "dateGroupModified": 1744793061085,
+                "id": "2022",
                 "index": 28,
+                "parentId": "1",
+                "syncing": true,
+                "title": "-----"
+            },
+            {
+                "dateAdded": 1744792712302,
+                "dateLastUsed": 1744793241271,
+                "id": "2020",
+                "index": 29,
+                "parentId": "1",
+                "syncing": true,
+                "title": "欧路翻译",
+                "url": "https://fanyi.eudic.net/#/home"
+            },
+            {
+                "dateAdded": 1744792263733,
+                "dateLastUsed": 1744804891523,
+                "id": "2018",
+                "index": 30,
                 "parentId": "1",
                 "syncing": true,
                 "title": "欧路翻译 - 文本翻译",
@@ -3525,9 +3545,9 @@
             },
             {
                 "dateAdded": 1744792228032,
-                "dateLastUsed": 1744792380475,
+                "dateLastUsed": 1744794013612,
                 "id": "2017",
-                "index": 29,
+                "index": 31,
                 "parentId": "1",
                 "syncing": true,
                 "title": "欧路翻译 - 文件阅读",
@@ -3535,19 +3555,29 @@
             },
             {
                 "dateAdded": 1744792287181,
-                "dateLastUsed": 1744792319861,
+                "dateLastUsed": 1744794953176,
                 "id": "2019",
-                "index": 30,
+                "index": 32,
                 "parentId": "1",
                 "syncing": true,
                 "title": "欧路词典 - 音频翻译",
                 "url": "https://my.eudic.net/AudioTranslate/index"
             },
             {
+                "children": [],
+                "dateAdded": 1744793045627,
+                "dateGroupModified": 1744793045627,
+                "id": "2021",
+                "index": 33,
+                "parentId": "1",
+                "syncing": true,
+                "title": "------"
+            },
+            {
                 "dateAdded": 1744777951888,
-                "dateLastUsed": 1744777967623,
+                "dateLastUsed": 1744793095095,
                 "id": "2010",
-                "index": 31,
+                "index": 34,
                 "parentId": "1",
                 "syncing": true,
                 "title": "导入生词本 | 欧路词典",
@@ -3557,7 +3587,7 @@
                 "dateAdded": 1744778105761,
                 "dateLastUsed": 1744778651755,
                 "id": "2011",
-                "index": 32,
+                "index": 35,
                 "parentId": "1",
                 "syncing": true,
                 "title": "开发指南 | 欧路词典",
@@ -3568,14 +3598,42 @@
                 "dateAdded": 1744778140431,
                 "dateGroupModified": 1744778140431,
                 "id": "2013",
-                "index": 33,
+                "index": 36,
                 "parentId": "1",
                 "syncing": true,
                 "title": "___________________"
+            },
+            {
+                "dateAdded": 1744827174734,
+                "dateLastUsed": 1744833268706,
+                "id": "2024",
+                "index": 37,
+                "parentId": "1",
+                "syncing": true,
+                "title": "FreeMdict Forum- 免费词典库",
+                "url": "https://forum.freemdict.com/latest"
+            },
+            {
+                "dateAdded": 1744910657430,
+                "id": "2026",
+                "index": 38,
+                "parentId": "1",
+                "syncing": true,
+                "title": "Mac端编辑MDX文件 - mdict-utils - 技术交流与词典编修 -",
+                "url": "https://forum.freemdict.com/t/topic/6340"
+            },
+            {
+                "dateAdded": 1744910784988,
+                "id": "2027",
+                "index": 39,
+                "parentId": "1",
+                "syncing": true,
+                "title": "【原创】 为mac添加自制词典 转换mdx格式到mac词典格式",
+                "url": "https://www.douban.com/note/507451268/?_i=4910784K3DwZpe"
             }
         ],
         "dateAdded": 1707891700817,
-        "dateGroupModified": 1744792343096,
+        "dateGroupModified": 1744910784988,
         "folderType": "bookmarks-bar",
         "id": "1",
         "index": 0,
