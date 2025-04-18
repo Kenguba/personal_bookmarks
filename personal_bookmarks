@@ -3614,9 +3614,19 @@
                 "url": "https://forum.freemdict.com/latest"
             },
             {
+                "children": [],
+                "dateAdded": 1744967273943,
+                "dateGroupModified": 1744967273943,
+                "id": "2028",
+                "index": 38,
+                "parentId": "1",
+                "syncing": true,
+                "title": "---"
+            },
+            {
                 "dateAdded": 1744910657430,
                 "id": "2026",
-                "index": 38,
+                "index": 39,
                 "parentId": "1",
                 "syncing": true,
                 "title": "Mac端编辑MDX文件 - mdict-utils - 技术交流与词典编修 -",
@@ -3625,7 +3635,7 @@
             {
                 "dateAdded": 1744910784988,
                 "id": "2027",
-                "index": 39,
+                "index": 40,
                 "parentId": "1",
                 "syncing": true,
                 "title": "【原创】 为mac添加自制词典 转换mdx格式到mac词典格式",
@@ -3633,7 +3643,7 @@
             }
         ],
         "dateAdded": 1707891700817,
-        "dateGroupModified": 1744910784988,
+        "dateGroupModified": 1744967284438,
         "folderType": "bookmarks-bar",
         "id": "1",
         "index": 0,
