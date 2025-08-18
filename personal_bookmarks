@@ -3,7 +3,7 @@
         "children": [
             {
                 "dateAdded": 1709374631453,
-                "dateLastUsed": 1748118154599,
+                "dateLastUsed": 1755448208177,
                 "id": "834",
                 "index": 0,
                 "parentId": "1",
@@ -13,7 +13,7 @@
             },
             {
                 "dateAdded": 1709374631453,
-                "dateLastUsed": 1748118184728,
+                "dateLastUsed": 1755402066218,
                 "id": "835",
                 "index": 1,
                 "parentId": "1",
@@ -23,7 +23,7 @@
             },
             {
                 "dateAdded": 1709374631453,
-                "dateLastUsed": 1748118156962,
+                "dateLastUsed": 1755472345176,
                 "id": "836",
                 "index": 2,
                 "parentId": "1",
@@ -34,7 +34,219 @@
             {
                 "children": [
                     {
+                        "dateAdded": 1755438502916,
+                        "dateLastUsed": 1755450314234,
+                        "id": "2060",
+                        "index": 0,
+                        "parentId": "2064",
+                        "syncing": true,
+                        "title": "美图抠图-在线AI抠图工具-智能批量抠图软件",
+                        "url": "https://cutout.designkit.com/?channel=kllbd97&bd_vid=3289308051067698569"
+                    },
+                    {
+                        "dateAdded": 1755438512281,
+                        "dateLastUsed": 1755450317137,
+                        "id": "2061",
+                        "index": 1,
+                        "parentId": "2064",
+                        "syncing": true,
+                        "title": "美图抠图-在线AI抠图工具-智能批量抠图软件",
+                        "url": "https://cutout.designkit.com/?channel=kllbd97&bd_vid=328930805106769858"
+                    },
+                    {
+                        "dateAdded": 1755438516802,
+                        "dateLastUsed": 1755450317659,
+                        "id": "2062",
+                        "index": 2,
+                        "parentId": "2064",
+                        "syncing": true,
+                        "title": "美图抠图-在线AI抠图工具-智能批量抠图软件",
+                        "url": "https://cutout.designkit.com/?channel=kllbd97&bd_vid=3289308051067698"
+                    },
+                    {
+                        "dateAdded": 1755438525475,
+                        "dateLastUsed": 1755450318134,
+                        "id": "2063",
+                        "index": 3,
+                        "parentId": "2064",
+                        "syncing": true,
+                        "title": "美图抠图-在线AI抠图工具-智能批量抠图软件",
+                        "url": "https://cutout.designkit.com/?channel=kllbd97&bd_vid=32893080510667"
+                    },
+                    {
+                        "dateAdded": 1755438634094,
+                        "dateLastUsed": 1755449386876,
+                        "id": "2065",
+                        "index": 4,
+                        "parentId": "2064",
+                        "syncing": true,
+                        "title": "美图抠图-在线AI抠图工具-智能批量抠图软件",
+                        "url": "https://cutout.designkit.com/?channel=kllbd97&bd_vid=3289308051067698569098"
+                    },
+                    {
+                        "dateAdded": 1755438640404,
+                        "dateLastUsed": 1755449386890,
+                        "id": "2066",
+                        "index": 5,
+                        "parentId": "2064",
+                        "syncing": true,
+                        "title": "美图抠图-在线AI抠图工具-智能批量抠图软件",
+                        "url": "https://cutout.designkit.com/?channel=kllbd97&bd_vid=328930805106769856909807"
+                    },
+                    {
+                        "dateAdded": 1755438647375,
+                        "dateLastUsed": 1755449386933,
+                        "id": "2067",
+                        "index": 6,
+                        "parentId": "2064",
+                        "syncing": true,
+                        "title": "美图抠图-在线AI抠图工具-智能批量抠图软件",
+                        "url": "https://cutout.designkit.com/?channel=kllbd97&bd_vid=328930805106767769856909807"
+                    },
+                    {
+                        "dateAdded": 1755438652808,
+                        "dateLastUsed": 1755449386982,
+                        "id": "2068",
+                        "index": 7,
+                        "parentId": "2064",
+                        "syncing": true,
+                        "title": "美图抠图-在线AI抠图工具-智能批量抠图软件",
+                        "url": "https://cutout.designkit.com/?channel=kllbd97&bd_vid=5106767769856909807"
+                    },
+                    {
+                        "dateAdded": 1755438657919,
+                        "dateLastUsed": 1755449387160,
+                        "id": "2069",
+                        "index": 8,
+                        "parentId": "2064",
+                        "syncing": true,
+                        "title": "美图抠图-在线AI抠图工具-智能批量抠图软件",
+                        "url": "https://cutout.designkit.com/?channel=kllbd97&bd_vid=51067677698569098071"
+                    },
+                    {
+                        "dateAdded": 1755438663491,
+                        "dateLastUsed": 1755449387150,
+                        "id": "2070",
+                        "index": 9,
+                        "parentId": "2064",
+                        "syncing": true,
+                        "title": "美图抠图-在线AI抠图工具-智能批量抠图软件",
+                        "url": "https://cutout.designkit.com/?channel=kllbd97&bd_vid=510676776569098071"
+                    },
+                    {
+                        "dateAdded": 1755438668508,
+                        "dateLastUsed": 1755449387330,
+                        "id": "2071",
+                        "index": 10,
+                        "parentId": "2064",
+                        "syncing": true,
+                        "title": "美图抠图-在线AI抠图工具-智能批量抠图软件",
+                        "url": "https://cutout.designkit.com/?channel=kllbd97&bd_vid=51676776569098071"
+                    },
+                    {
+                        "dateAdded": 1755438675836,
+                        "dateLastUsed": 1755449387163,
+                        "id": "2072",
+                        "index": 11,
+                        "parentId": "2064",
+                        "syncing": true,
+                        "title": "美图抠图-在线AI抠图工具-智能批量抠图软件",
+                        "url": "https://cutout.designkit.com/?channel=kllbd97&bd_vid=51676776569098087283"
+                    },
+                    {
+                        "dateAdded": 1755438680365,
+                        "dateLastUsed": 1755449387205,
+                        "id": "2073",
+                        "index": 12,
+                        "parentId": "2064",
+                        "syncing": true,
+                        "title": "美图抠图-在线AI抠图工具-智能批量抠图软件",
+                        "url": "https://cutout.designkit.com/?channel=kllbd97&bd_vid=516767769098087283"
+                    },
+                    {
+                        "dateAdded": 1755438688956,
+                        "dateLastUsed": 1755449387172,
+                        "id": "2074",
+                        "index": 13,
+                        "parentId": "2064",
+                        "syncing": true,
+                        "title": "美图抠图-在线AI抠图工具-智能批量抠图软件",
+                        "url": "https://cutout.designkit.com/?channel=kllbd97&bd_vid=513436767769098087283"
+                    },
+                    {
+                        "dateAdded": 1755438692822,
+                        "dateLastUsed": 1755449387756,
+                        "id": "2075",
+                        "index": 14,
+                        "parentId": "2064",
+                        "syncing": true,
+                        "title": "美图抠图-在线AI抠图工具-智能批量抠图软件",
+                        "url": "https://cutout.designkit.com/?channel=kllbd97&bd_vid=51343676776909808728"
+                    },
+                    {
+                        "dateAdded": 1755438697435,
+                        "dateLastUsed": 1755449387742,
+                        "id": "2076",
+                        "index": 15,
+                        "parentId": "2064",
+                        "syncing": true,
+                        "title": "美图抠图-在线AI抠图工具-智能批量抠图软件",
+                        "url": "https://cutout.designkit.com/?channel=kllbd97&bd_vid=51343676776909808"
+                    },
+                    {
+                        "dateAdded": 1755438701989,
+                        "dateLastUsed": 1755449387769,
+                        "id": "2077",
+                        "index": 16,
+                        "parentId": "2064",
+                        "syncing": true,
+                        "title": "美图抠图-在线AI抠图工具-智能批量抠图软件",
+                        "url": "https://cutout.designkit.com/?channel=kllbd97&bd_vid=51343676776909"
+                    },
+                    {
+                        "dateAdded": 1755438705982,
+                        "dateLastUsed": 1755449387757,
+                        "id": "2078",
+                        "index": 17,
+                        "parentId": "2064",
+                        "syncing": true,
+                        "title": "美图抠图-在线AI抠图工具-智能批量抠图软件",
+                        "url": "https://cutout.designkit.com/?channel=kllbd97&bd_vid=1343676776909"
+                    },
+                    {
+                        "dateAdded": 1755438709887,
+                        "dateLastUsed": 1755449387753,
+                        "id": "2079",
+                        "index": 18,
+                        "parentId": "2064",
+                        "syncing": true,
+                        "title": "美图抠图-在线AI抠图工具-智能批量抠图软件",
+                        "url": "https://cutout.designkit.com/?channel=kllbd97&bd_vid=134367677690"
+                    },
+                    {
+                        "dateAdded": 1755438722809,
+                        "dateLastUsed": 1755449387765,
+                        "id": "2080",
+                        "index": 19,
+                        "parentId": "2064",
+                        "syncing": true,
+                        "title": "美图抠图-在线AI抠图工具-智能批量抠图软件",
+                        "url": "https://cutout.designkit.com/?channel=kllbd97&bd_vid=1343676776900"
+                    }
+                ],
+                "dateAdded": 1755438540734,
+                "dateGroupModified": 1755438722809,
+                "id": "2064",
+                "index": 3,
+                "parentId": "1",
+                "syncing": true,
+                "title": "抠图"
+            },
+            {
+                "children": [
+                    {
                         "dateAdded": 1709374631462,
+                        "dateLastUsed": 1754891970303,
                         "id": "854",
                         "index": 0,
                         "parentId": "837",
@@ -72,6 +284,7 @@
                     },
                     {
                         "dateAdded": 1709374631463,
+                        "dateLastUsed": 1754891958393,
                         "id": "858",
                         "index": 4,
                         "parentId": "837",
@@ -274,6 +487,7 @@
                     },
                     {
                         "dateAdded": 1709374631465,
+                        "dateLastUsed": 1755244143684,
                         "id": "876",
                         "index": 26,
                         "parentId": "837",
@@ -321,6 +535,7 @@
                     },
                     {
                         "dateAdded": 1709374631465,
+                        "dateLastUsed": 1755238628739,
                         "id": "881",
                         "index": 31,
                         "parentId": "837",
@@ -329,11 +544,20 @@
                         "url": "https://www.yuque.com/kenguba/dev/iterm2"
                     },
                     {
+                        "dateAdded": 1755238605730,
+                        "id": "2055",
+                        "index": 32,
+                        "parentId": "837",
+                        "syncing": true,
+                        "title": "bash常用快捷键",
+                        "url": "https://blog.51cto.com/cerana/14076733"
+                    },
+                    {
                         "children": [],
                         "dateAdded": 1709374631465,
                         "dateGroupModified": 1709374631465,
                         "id": "882",
-                        "index": 32,
+                        "index": 33,
                         "parentId": "837",
                         "syncing": true,
                         "title": "----"
@@ -341,7 +565,7 @@
                     {
                         "dateAdded": 1709374631466,
                         "id": "883",
-                        "index": 33,
+                        "index": 34,
                         "parentId": "837",
                         "syncing": true,
                         "title": "git",
@@ -349,9 +573,9 @@
                     }
                 ],
                 "dateAdded": 1709374631454,
-                "dateGroupModified": 1710150378384,
+                "dateGroupModified": 1755244142200,
                 "id": "837",
-                "index": 3,
+                "index": 4,
                 "parentId": "1",
                 "syncing": true,
                 "title": "笔记文档"
@@ -490,6 +714,7 @@
                     },
                     {
                         "dateAdded": 1709374631466,
+                        "dateLastUsed": 1754996201556,
                         "id": "891",
                         "index": 11,
                         "parentId": "838",
@@ -704,7 +929,7 @@
                 "dateAdded": 1709374631454,
                 "dateGroupModified": 1744190238185,
                 "id": "838",
-                "index": 4,
+                "index": 5,
                 "parentId": "1",
                 "syncing": true,
                 "title": "待办区"
@@ -933,26 +1158,27 @@
                         "url": "https://muzihuaner.gitee.io/zuosi/?name=%E6%AF%92%E8%98%91%E8%8F%87"
                     },
                     {
+                        "children": [],
+                        "dateAdded": 1735060074442,
+                        "dateGroupModified": 1735060074442,
+                        "id": "1962",
+                        "index": 24,
+                        "parentId": "839",
+                        "syncing": true,
+                        "title": "---"
+                    },
+                    {
                         "dateAdded": 1734432306119,
                         "id": "1586",
-                        "index": 24,
+                        "index": 25,
                         "parentId": "839",
                         "syncing": true,
                         "title": "快柠檬VPN - 下载 MAC 客户端",
                         "url": "https://eokoq.site/dl"
                     },
                     {
-                        "children": [],
-                        "dateAdded": 1735060074442,
-                        "dateGroupModified": 1735060074442,
-                        "id": "1962",
-                        "index": 25,
-                        "parentId": "839",
-                        "syncing": true,
-                        "title": "---"
-                    },
-                    {
                         "dateAdded": 1735060321889,
+                        "dateLastUsed": 1755229796440,
                         "id": "1963",
                         "index": 26,
                         "parentId": "839",
@@ -961,9 +1187,20 @@
                         "url": "https://eokor.site/p/docs/mac-clash"
                     },
                     {
-                        "dateAdded": 1734367757811,
-                        "id": "1584",
+                        "dateAdded": 1755244125298,
+                        "dateLastUsed": 1755475306981,
+                        "id": "2056",
                         "index": 27,
+                        "parentId": "839",
+                        "syncing": true,
+                        "title": "mdict-utils Mac端编辑MDX文件",
+                        "url": "https://github.com/liuyug/mdict-utils"
+                    },
+                    {
+                        "dateAdded": 1734367757811,
+                        "dateLastUsed": 1755330743701,
+                        "id": "1584",
+                        "index": 28,
                         "parentId": "839",
                         "syncing": true,
                         "title": "Magisk 刷机 Releases",
@@ -974,7 +1211,7 @@
                         "dateAdded": 1709374631471,
                         "dateGroupModified": 1709374631471,
                         "id": "936",
-                        "index": 28,
+                        "index": 29,
                         "parentId": "839",
                         "syncing": true,
                         "title": "__________________"
@@ -982,7 +1219,7 @@
                     {
                         "dateAdded": 1709374631471,
                         "id": "937",
-                        "index": 29,
+                        "index": 30,
                         "parentId": "839",
                         "syncing": true,
                         "title": "微软网盘",
@@ -990,9 +1227,8 @@
                     },
                     {
                         "dateAdded": 1709374631471,
-                        "dateLastUsed": 1745833303491,
                         "id": "938",
-                        "index": 30,
+                        "index": 31,
                         "parentId": "839",
                         "syncing": true,
                         "title": "蓝奏云",
@@ -1000,9 +1236,8 @@
                     },
                     {
                         "dateAdded": 1709374631471,
-                        "dateLastUsed": 1745833195465,
                         "id": "939",
-                        "index": 31,
+                        "index": 32,
                         "parentId": "839",
                         "syncing": true,
                         "title": "小飞机网盘 - 不限速、网页端、但平铺下载文件",
@@ -1010,19 +1245,27 @@
                     },
                     {
                         "dateAdded": 1709374631471,
-                        "dateLastUsed": 1745832977434,
                         "id": "940",
-                        "index": 32,
+                        "index": 33,
                         "parentId": "839",
                         "syncing": true,
                         "title": "123云盘 - 不限速",
                         "url": "https://www.123pan.com/"
+                    },
+                    {
+                        "dateAdded": 1755347489178,
+                        "id": "2058",
+                        "index": 34,
+                        "parentId": "839",
+                        "syncing": true,
+                        "title": "片假名 ⇋ 罗马音 转换器",
+                        "url": "file:///Users/ken/Downloads/%E4%BE%8B%E8%A7%A3%E5%AD%A6%E7%BF%92%E6%BC%A2%E5%AD%97%E8%BE%9E%E5%85%B8%EF%BC%BB%E7%AC%AC%E4%B9%9D%E7%89%88%EF%BC%BD/mdx/aaasdsds.html"
                     }
                 ],
                 "dateAdded": 1709374631454,
-                "dateGroupModified": 1735284242513,
+                "dateGroupModified": 1755438525475,
                 "id": "839",
-                "index": 5,
+                "index": 6,
                 "parentId": "1",
                 "syncing": true,
                 "title": "developer"
@@ -1088,7 +1331,7 @@
                 "dateAdded": 1709374631455,
                 "dateGroupModified": 1709374631472,
                 "id": "840",
-                "index": 6,
+                "index": 7,
                 "parentId": "1",
                 "syncing": true,
                 "title": "云服务"
@@ -1742,7 +1985,7 @@
                 "dateAdded": 1709374631455,
                 "dateGroupModified": 1709374631474,
                 "id": "841",
-                "index": 7,
+                "index": 8,
                 "parentId": "1",
                 "syncing": true,
                 "title": "软件网"
@@ -1827,7 +2070,7 @@
                 "dateAdded": 1709374631456,
                 "dateGroupModified": 1709374631475,
                 "id": "842",
-                "index": 8,
+                "index": 9,
                 "parentId": "1",
                 "syncing": true,
                 "title": "JS"
@@ -2150,7 +2393,7 @@
                 "dateAdded": 1709374631456,
                 "dateGroupModified": 1734679341903,
                 "id": "843",
-                "index": 9,
+                "index": 10,
                 "parentId": "1",
                 "syncing": true,
                 "title": "工具"
@@ -2354,7 +2597,7 @@
                 "dateAdded": 1709374631456,
                 "dateGroupModified": 1709374631479,
                 "id": "844",
-                "index": 10,
+                "index": 11,
                 "parentId": "1",
                 "syncing": true,
                 "title": "IDP"
@@ -2531,7 +2774,7 @@
                 "dateAdded": 1709374631456,
                 "dateGroupModified": 1709374631480,
                 "id": "845",
-                "index": 11,
+                "index": 12,
                 "parentId": "1",
                 "syncing": true,
                 "title": "设计中心"
@@ -2778,7 +3021,7 @@
                 "dateAdded": 1709374631456,
                 "dateGroupModified": 1710150391836,
                 "id": "846",
-                "index": 12,
+                "index": 13,
                 "parentId": "1",
                 "syncing": true,
                 "title": "空投"
@@ -3245,16 +3488,16 @@
                 "dateAdded": 1709374631457,
                 "dateGroupModified": 1709374631487,
                 "id": "850",
-                "index": 13,
+                "index": 14,
                 "parentId": "1",
                 "syncing": true,
                 "title": "｜"
             },
             {
                 "dateAdded": 1709374631458,
-                "dateLastUsed": 1747074601819,
+                "dateLastUsed": 1754572136673,
                 "id": "853",
-                "index": 14,
+                "index": 15,
                 "parentId": "1",
                 "syncing": true,
                 "title": "英式",
@@ -3262,26 +3505,17 @@
             },
             {
                 "dateAdded": 1743304735549,
-                "dateLastUsed": 1745830636459,
+                "dateLastUsed": 1754444515657,
                 "id": "1996",
-                "index": 15,
+                "index": 16,
                 "parentId": "1",
                 "syncing": true,
                 "title": "语法",
                 "url": "https://www.yuque.com/kenguba/play/grammar"
             },
             {
-                "dateAdded": 1740465048324,
-                "dateLastUsed": 1745830441527,
-                "id": "1982",
-                "index": 16,
-                "parentId": "1",
-                "syncing": true,
-                "title": "词缀",
-                "url": "https://www.yuque.com/kenguba/play/affix"
-            },
-            {
                 "dateAdded": 1742047987336,
+                "dateLastUsed": 1754399246358,
                 "id": "1987",
                 "index": 17,
                 "parentId": "1",
@@ -3290,9 +3524,19 @@
                 "url": "https://www.yuque.com/kenguba/swap/uuyoqefzphchensm"
             },
             {
+                "dateAdded": 1754444521242,
+                "dateLastUsed": 1754444965507,
+                "id": "2037",
+                "index": 18,
+                "parentId": "1",
+                "syncing": true,
+                "title": "不规则复数",
+                "url": "https://www.yuque.com/kenguba/play/verb"
+            },
+            {
                 "dateAdded": 1742491240293,
                 "id": "1990",
-                "index": 18,
+                "index": 19,
                 "parentId": "1",
                 "syncing": true,
                 "title": "etymonline",
@@ -3301,7 +3545,7 @@
             {
                 "dateAdded": 1743303565686,
                 "id": "1995",
-                "index": 19,
+                "index": 20,
                 "parentId": "1",
                 "syncing": true,
                 "title": "Webster",
@@ -3310,7 +3554,7 @@
             {
                 "dateAdded": 1743312671627,
                 "id": "1997",
-                "index": 20,
+                "index": 21,
                 "parentId": "1",
                 "syncing": true,
                 "title": "Vocabulary",
@@ -3318,10 +3562,10 @@
             },
             {
                 "children": [],
-                "dateAdded": 1743325705942,
-                "dateGroupModified": 1744731094116,
-                "id": "1998",
-                "index": 21,
+                "dateAdded": 1754444566501,
+                "dateGroupModified": 1754444566501,
+                "id": "2038",
+                "index": 22,
                 "parentId": "1",
                 "syncing": true,
                 "title": "英语网站"
@@ -3329,7 +3573,7 @@
             {
                 "dateAdded": 1744787804385,
                 "id": "2015",
-                "index": 22,
+                "index": 23,
                 "parentId": "1",
                 "syncing": true,
                 "title": "IPA Pronunciation Guide | Vocabulary.com",
@@ -3338,7 +3582,7 @@
             {
                 "dateAdded": 1743416939026,
                 "id": "2001",
-                "index": 23,
+                "index": 24,
                 "parentId": "1",
                 "syncing": true,
                 "title": "Cambridge Dictionary",
@@ -3347,7 +3591,7 @@
             {
                 "dateAdded": 1743344630443,
                 "id": "2000",
-                "index": 24,
+                "index": 25,
                 "parentId": "1",
                 "syncing": true,
                 "title": "Collins | 柯林斯英语词典",
@@ -3358,15 +3602,16 @@
                 "dateAdded": 1744778118442,
                 "dateGroupModified": 1744778118442,
                 "id": "2012",
-                "index": 25,
+                "index": 26,
                 "parentId": "1",
                 "syncing": true,
                 "title": "_________________"
             },
             {
                 "dateAdded": 1744747315217,
+                "dateLastUsed": 1744792317445,
                 "id": "2007",
-                "index": 26,
+                "index": 27,
                 "parentId": "1",
                 "syncing": true,
                 "title": "《欧路词典》英语在线词典",
@@ -3375,7 +3620,7 @@
             {
                 "dateAdded": 1744747334951,
                 "id": "2008",
-                "index": 27,
+                "index": 28,
                 "parentId": "1",
                 "syncing": true,
                 "title": "欧路在线词典",
@@ -3386,16 +3631,15 @@
                 "dateAdded": 1744793061085,
                 "dateGroupModified": 1744793061085,
                 "id": "2022",
-                "index": 28,
+                "index": 29,
                 "parentId": "1",
                 "syncing": true,
                 "title": "-----"
             },
             {
                 "dateAdded": 1744792712302,
-                "dateLastUsed": 1745832338728,
                 "id": "2020",
-                "index": 29,
+                "index": 30,
                 "parentId": "1",
                 "syncing": true,
                 "title": "欧路翻译",
@@ -3404,7 +3648,7 @@
             {
                 "dateAdded": 1744792263733,
                 "id": "2018",
-                "index": 30,
+                "index": 31,
                 "parentId": "1",
                 "syncing": true,
                 "title": "欧路翻译 - 文本翻译",
@@ -3413,7 +3657,7 @@
             {
                 "dateAdded": 1744792228032,
                 "id": "2017",
-                "index": 31,
+                "index": 32,
                 "parentId": "1",
                 "syncing": true,
                 "title": "欧路翻译 - 文件阅读",
@@ -3421,8 +3665,9 @@
             },
             {
                 "dateAdded": 1744792287181,
+                "dateLastUsed": 1751281082937,
                 "id": "2019",
-                "index": 32,
+                "index": 33,
                 "parentId": "1",
                 "syncing": true,
                 "title": "欧路词典 - 音频翻译",
@@ -3433,15 +3678,16 @@
                 "dateAdded": 1744793045627,
                 "dateGroupModified": 1744793045627,
                 "id": "2021",
-                "index": 33,
+                "index": 34,
                 "parentId": "1",
                 "syncing": true,
                 "title": "------"
             },
             {
                 "dateAdded": 1744777951888,
+                "dateLastUsed": 1753920869473,
                 "id": "2010",
-                "index": 34,
+                "index": 35,
                 "parentId": "1",
                 "syncing": true,
                 "title": "导入生词本 | 欧路词典",
@@ -3449,34 +3695,144 @@
             },
             {
                 "dateAdded": 1744778105761,
+                "dateLastUsed": 1751133517811,
                 "id": "2011",
-                "index": 35,
+                "index": 36,
                 "parentId": "1",
                 "syncing": true,
                 "title": "开发指南 | 欧路词典",
                 "url": "https://my.eudic.net/OpenAPI/Doc_Index"
             },
             {
-                "children": [],
+                "children": [
+                    {
+                        "dateAdded": 1754873223963,
+                        "dateLastUsed": 1754884200271,
+                        "id": "2046",
+                        "index": 0,
+                        "parentId": "2013",
+                        "syncing": true,
+                        "title": "精装 - 牛津高阶双解第10版完美版（OALDPE） - 词典装饰排版交流分享 - FreeMdict Forum",
+                        "url": "https://forum.freemdict.com/t/topic/30466"
+                    },
+                    {
+                        "dateAdded": 1754884252121,
+                        "id": "2045",
+                        "index": 1,
+                        "parentId": "2013",
+                        "syncing": true,
+                        "title": "Oxford Dictionaries 2024 - 词典装饰排版交流分享 - FreeMdict Forum",
+                        "url": "https://forum.freemdict.com/t/topic/33025"
+                    },
+                    {
+                        "dateAdded": 1754883390175,
+                        "dateLastUsed": 1754970994319,
+                        "id": "2041",
+                        "index": 2,
+                        "parentId": "2013",
+                        "syncing": true,
+                        "title": "ODE glance - 英汉 - FreeMdict Forum",
+                        "url": "https://forum.freemdict.com/t/topic/24024/10"
+                    },
+                    {
+                        "children": [
+                            {
+                                "dateAdded": 1754916713761,
+                                "id": "2040",
+                                "index": 0,
+                                "parentId": "2048",
+                                "syncing": true,
+                                "title": "JAPANESE(奸佞忠良) 合并 更新 2024-09-05 新增10个mdx - 日语 - FreeMdict Forum",
+                                "url": "https://forum.freemdict.com/t/topic/31447"
+                            }
+                        ],
+                        "dateAdded": 1754982785259,
+                        "dateGroupModified": 1755238580074,
+                        "id": "2048",
+                        "index": 3,
+                        "parentId": "2013",
+                        "syncing": true,
+                        "title": "_________________"
+                    },
+                    {
+                        "dateAdded": 1754880166987,
+                        "id": "2043",
+                        "index": 4,
+                        "parentId": "2013",
+                        "syncing": true,
+                        "title": "日本語辞書3種のMdict版 - 日语 - FreeMdict Forum",
+                        "url": "https://forum.freemdict.com/t/topic/39200"
+                    },
+                    {
+                        "dateAdded": 1754877584324,
+                        "dateLastUsed": 1754880189031,
+                        "id": "2044",
+                        "index": 5,
+                        "parentId": "2013",
+                        "syncing": true,
+                        "title": "OJAD - 在线日语声调辞典 240221更新假名索引 - 日语 - FreeMdict Forum",
+                        "url": "https://forum.freemdict.com/t/topic/26846"
+                    },
+                    {
+                        "dateAdded": 1754924241834,
+                        "dateLastUsed": 1754924437512,
+                        "id": "2047",
+                        "index": 6,
+                        "parentId": "2013",
+                        "syncing": true,
+                        "title": "広辞苑 第七版 - 日语 - FreeMdict Forum",
+                        "url": "https://forum.freemdict.com/t/topic/15882"
+                    },
+                    {
+                        "dateAdded": 1755219689190,
+                        "id": "2052",
+                        "index": 7,
+                        "parentId": "2013",
+                        "syncing": true,
+                        "title": "物書堂: 旺文社 全訳古語辞典 第五版 - 日语 - FreeMdict Forum",
+                        "url": "https://forum.freemdict.com/t/topic/38752"
+                    },
+                    {
+                        "dateAdded": 1754923780686,
+                        "dateLastUsed": 1754985802557,
+                        "id": "2049",
+                        "index": 8,
+                        "parentId": "2013",
+                        "syncing": true,
+                        "title": "【小学館】例解学習国語辞典［第九版］ - 日语 - FreeMdict Forum",
+                        "url": "https://forum.freemdict.com/t/topic/18491"
+                    },
+                    {
+                        "dateAdded": 1754986265892,
+                        "dateLastUsed": 1755212129202,
+                        "id": "2042",
+                        "index": 9,
+                        "parentId": "2013",
+                        "syncing": true,
+                        "title": "辞典数据源 例解学習国語辞典 第十一版 辞典数据 - 日语 - FreeMdict Forum",
+                        "url": "https://forum.freemdict.com/t/topic/37018"
+                    },
+                    {
+                        "dateAdded": 1755219878003,
+                        "id": "2053",
+                        "index": 10,
+                        "parentId": "2013",
+                        "syncing": true,
+                        "title": "【三省堂】超級クラウン日中辞典（1月5日更新） - 日语 - FreeMdict Forum",
+                        "url": "https://forum.freemdict.com/t/topic/18231"
+                    }
+                ],
                 "dateAdded": 1744778140431,
-                "dateGroupModified": 1744778140431,
+                "dateGroupModified": 1755219878003,
                 "id": "2013",
-                "index": 36,
+                "index": 37,
                 "parentId": "1",
                 "syncing": true,
                 "title": "___________________"
             },
             {
-                "dateAdded": 1744827174734,
-                "id": "2024",
-                "index": 37,
-                "parentId": "1",
-                "syncing": true,
-                "title": "FreeMdict Forum- 免费词典库",
-                "url": "https://forum.freemdict.com/latest"
-            },
-            {
                 "dateAdded": 1744967138986,
+                "dateLastUsed": 1754872064884,
                 "id": "2029",
                 "index": 38,
                 "parentId": "1",
@@ -3485,32 +3841,34 @@
                 "url": "https://www.pdawiki.com/forum/forum.php"
             },
             {
+                "dateAdded": 1744827174734,
+                "dateLastUsed": 1755229229670,
+                "id": "2024",
+                "index": 39,
+                "parentId": "1",
+                "syncing": true,
+                "title": "FreeMdict Forum- 免费词典库",
+                "url": "https://forum.freemdict.com/latest"
+            },
+            {
                 "children": [],
                 "dateAdded": 1744967273943,
                 "dateGroupModified": 1744967371853,
                 "id": "2028",
-                "index": 39,
+                "index": 40,
                 "parentId": "1",
                 "syncing": true,
                 "title": "---"
             },
             {
                 "dateAdded": 1744968121819,
+                "dateLastUsed": 1755228965477,
                 "id": "2030",
-                "index": 40,
+                "index": 41,
                 "parentId": "1",
                 "syncing": true,
                 "title": "制作mdx字典所用到的工具",
                 "url": "https://www.bilibili.com/video/BV14T411M7r9/?vd_source=cf3e2be562b0d23e5fea3abae6f4fb9d"
-            },
-            {
-                "dateAdded": 1744910657430,
-                "id": "2026",
-                "index": 41,
-                "parentId": "1",
-                "syncing": true,
-                "title": "Mac端编辑MDX文件 mdict-utils",
-                "url": "https://forum.freemdict.com/t/topic/6340"
             },
             {
                 "dateAdded": 1744910784988,
@@ -3520,10 +3878,59 @@
                 "syncing": true,
                 "title": "【原创】 为mac添加自制词典 转换mdx格式到mac词典格式",
                 "url": "https://www.douban.com/note/507451268/?_i=4910784K3DwZpe"
+            },
+            {
+                "dateAdded": 1744910657430,
+                "dateLastUsed": 1755229235285,
+                "id": "2026",
+                "index": 43,
+                "parentId": "1",
+                "syncing": true,
+                "title": "Mac端编辑MDX文件 mdict-utils",
+                "url": "https://forum.freemdict.com/t/topic/6340"
+            },
+            {
+                "dateAdded": 1755230121774,
+                "dateLastUsed": 1755230151516,
+                "id": "2051",
+                "index": 44,
+                "parentId": "1",
+                "syncing": true,
+                "title": "使用mdict-utils的Python项目打包的MDX词典，求兼容性测评 - 技术交流与词典编修 - FreeMdict Forum",
+                "url": "https://forum.freemdict.com/t/topic/32939"
+            },
+            {
+                "children": [],
+                "dateAdded": 1748120286008,
+                "dateGroupModified": 1748120286008,
+                "id": "2033",
+                "index": 45,
+                "parentId": "1",
+                "syncing": true,
+                "title": "____________________"
+            },
+            {
+                "dateAdded": 1748120263772,
+                "dateLastUsed": 1748120304092,
+                "id": "2032",
+                "index": 46,
+                "parentId": "1",
+                "syncing": true,
+                "title": "JavaScript 面试题",
+                "url": "https://www.yuque.com/kenguba/js/mianshi"
+            },
+            {
+                "dateAdded": 1753920824906,
+                "id": "2035",
+                "index": 47,
+                "parentId": "1",
+                "syncing": true,
+                "title": "开发指南 | 欧路词典",
+                "url": "https://my.eudic.net/OpenAPI/doc_api_note"
             }
         ],
         "dateAdded": 1707891700817,
-        "dateGroupModified": 1744968131194,
+        "dateGroupModified": 1755438545838,
         "folderType": "bookmarks-bar",
         "id": "1",
         "index": 0,
